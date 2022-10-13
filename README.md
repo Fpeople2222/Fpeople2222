@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fpeople2222 A.K.A "D1fferent"
+- 👋 Hi, I’m @Fpeople2222 A.K.A "We1rd"
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on ...
